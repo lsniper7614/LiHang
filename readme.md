@@ -48,8 +48,6 @@
 
 [https://blog.csdn.net/tudaodiaozhale](http://link.zhihu.com/?target=https%3A//blog.csdn.net/tudaodiaozhale)
 
-代码整理和修改：机器学习初学者   （微信公众号，ID:ai-start-com），qq群：774999266。
 
 ![gongzhong](/images/gongzhong.png)
 
-[我的知乎](https://www.zhihu.com/people/fengdu78)
